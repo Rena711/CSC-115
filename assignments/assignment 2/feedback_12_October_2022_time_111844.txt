@@ -1,0 +1,62 @@
+================================================================================
+Compiling Submission
+================================================================================
+Compiler output:
+(No output generated)
+Compile successful.
+================================================================================
+Automated Testing Output:
+================================================================================
+
+Testing UvicCourse Constructor
+Passed test: csc110 constructor course name initialized
+Passed test: csc110 constructor class list initialized
+Passed test: math100 constructor course name initialized
+Passed test: math100 constructor class list initialized
+
+Testing UvicCourse averageGrade method
+Passed test: average grade for empty test course
+Passed test: average grade for csc110
+Passed test: average grade for math100
+
+Testing UvicCourse getGrade method
+Passed test: get grade of s1 in csc110
+Passed test: get grade of s4 in csc110
+Passed test: get grade of s3 in csc110
+Passed test: get grade of s3 in math100
+
+Testing UvicCourse updateGrade method
+Passed test: s1 updated grade
+Passed test: s3a updated grade
+Passed test: s4 updated grade
+
+Testing UvicCourse addStudent method
+Passed test: csc 115 class list initially empty
+Failed test: csc 115 class list after inserting 1 student at line 369
+Failed test: csc 115 class list after inserting 2 students at line 379
+Failed test: csc 115 class list after inserting 3 students at line 390
+Failed test: csc 115 class list after inserting 4 students at line 401
+
+Testing countAbove method
+Passed test: csc115 grades above 92
+Passed test: csc115 grades above 91
+Passed test: csc115 grades above 67
+Passed test: csc115 grades above 66
+
+Testing highestAverage method
+Passed test: highestAverage in courseArray1
+Passed test: highestAverage in courseArray2
+Passed test: highestAverage in courseArray3
+Passed test: highestAverage in courseArray4
+
+Testing studentAverage method
+Failed test: v00123456 average grade at line 646
+Failed test: v00555555 average grade at line 657
+Failed test: v00998877 average grade at line 668
+Failed test: v00224466 average grade at line 679
+Failed test: v00910019 average grade at line 690
+Failed test: v00123321 average grade at line 701
+Failed test: empty array test at line 716
+Passed 23 / 34 tests
+
+

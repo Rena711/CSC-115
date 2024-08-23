@@ -1,0 +1,143 @@
+================================================================================
+Compiling Submission
+================================================================================
+Compiler output:
+(No output generated)
+Compile successful.
+================================================================================
+Automated Testing Output:
+================================================================================
+Passed test: testAddFront1
+{SCIENCE}
+Passed test: testAddFront2
+Passed test: testAddBack1
+{DEKNIL}
+Passed test: testAddBack2
+Passed test: testAddBoth1
+{GNIKROW}
+Passed test: testAddBoth2
+Passed test: testAddBoth3
+{GNITSET}
+Passed test: testAddBoth4
+Passed test: testRemoveFront1
+{AB}
+Passed test: testRemoveFront2
+Passed test: testRemoveFront3
+{}
+Passed test: testRemoveFront4
+Passed test: testRemoveFront5
+{FE}
+Passed test: testRemoveFront6
+Passed test: testRemoveFront7
+{JHG}
+Passed test: testRemoveFront8
+Passed test: testRemoveBack1
+{BC}
+Passed test: testRemoveBack2
+Passed test: testRemoveBack3
+{}
+Passed test: testRemoveBack4
+Passed test: testRemoveBack5
+{ED}
+Passed test: testRemoveBack6
+Passed test: testRemoveBack7
+{HGI}
+Passed test: testRemoveBack8
+Passed test: testSizeAndIsEmpty1
+Passed test: testSizeAndIsEmpty2
+Passed test: testSizeAndIsEmpty3
+Passed test: testSizeAndIsEmpty4
+Passed test: testSizeAndIsEmpty5
+Passed test: testSizeAndIsEmpty6
+Passed test: testSizeAndIsEmpty7
+Passed test: testSizeAndIsEmpty8
+Passed test: testSizeAndIsEmpty9
+Passed test: testSizeAndIsEmpty10
+Passed test: testSizeAndIsEmpty11
+Passed test: testSizeAndIsEmpty12
+Passed test: testSizeAndIsEmpty13
+Passed test: testSizeAndIsEmpty14
+Passed test: testSizeAndIsEmpty15
+Passed test: testSizeAndIsEmpty16
+Passed test: testSizeAndIsEmpty17
+Passed test: testSizeAndIsEmpty18
+Passed test: testSizeAndIsEmpty19
+Passed test: testSizeAndIsEmpty20
+Passed test: testSizeAndIsEmpty21
+Passed test: testSizeAndIsEmpty22
+Passed test: testSizeAndIsEmpty23
+{cfedba}
+Passed test: moveToBack position 2
+Passed test: moveToBack position 2
+{fcedba}
+Passed test: moveToBack position 4
+Passed test: moveToBack position 4
+{afcedb}
+Passed test: moveToBack position 0
+Passed test: moveToBack position 0
+{afcedb}
+Passed test: moveToBack last position
+Passed test: moveToBack last position
+{afcedb}
+Passed test: moveToBack negative position
+Passed test: moveToBack negative position
+{afcedb}
+Passed test: moveToBack position too high
+Passed test: moveToBack position too high
+Failed test: moveToBack 0 elements at line 815
+Failed test: moveToBack 0 elements at line 816
+java.lang.NullPointerException: Cannot invoke "A3Node.getData()" because "this.head" is null
+{xy}
+Passed test: moveToBack two elements
+Passed test: moveToBack two elements
+{xy}
+Passed test: moveToBack two elements
+Passed test: moveToBack two elements
+{a}
+Passed test: moveToBack one element
+Passed test: moveToBack one element
+{yshc}
+Passed test: insertInto test1
+Passed test: insertInto test2
+{ytshc}
+Passed test: insertInto test3
+Passed test: insertInto test4
+{zytshc}
+Passed test: insertInto test5
+Passed test: insertInto test6
+Passed test: insertInto sizeTest1
+{m}
+Passed test: insertInto test7
+Passed test: insertInto test8
+Passed test: insertInto sizeTest2
+{mf}
+Passed test: insertInto test9
+Passed test: insertInto test10
+Passed test: insertInto sizeTest3
+{wmf}
+Passed test: insertInto test11
+Passed test: insertInto test12
+Passed test: insertInto sizeTest4
+{wpmf}
+Passed test: insertInto test13
+Passed test: insertInto test14
+Passed test: insertInto sizeTest5
+{wpmgf}
+Passed test: insertInto test15
+Passed test: insertInto test16
+Passed test: insertInto sizeTest6
+{wpmgfa}
+Passed test: insertInto test17
+Passed test: insertInto test18
+Passed test: insertInto sizeTest7
+{xwpmgfa}
+Passed test: insertInto test19
+Passed test: insertInto test20
+Passed test: insertInto sizeTest8
+{xwpomgfa}
+Passed test: insertInto test21
+Passed test: insertInto test22
+Passed test: insertInto sizeTest9
+Passed 96 / 98 tests
+
+

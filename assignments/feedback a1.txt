@@ -1,0 +1,38 @@
+================================================================================
+Compiling Submission
+================================================================================
+Compiler output:
+(No output generated)
+Compile successful.
+================================================================================
+Automated Testing Output:
+================================================================================
+Passed test: numFactors(1)
+Passed test: numFactors(6)
+Passed test: numFactors(24)
+Passed test: numFactors(51)
+Passed test: isPrime(2)
+Passed test: isPrime(6)
+Passed test: isPrime(11)
+Passed test: isPrime(15)
+Passed test: isPrime(1046527)
+Passed test: isPrime(1046529)
+Passed test: gcd(1,2)
+Passed test: gcd(30,105)
+Passed test: gcd(36, 84)
+Passed test: gcd(25, 200)
+Passed test: arr1 contains 2
+Passed test: arr1 contains 0
+Passed test: arr1 contains 4
+Passed test: arr2 contains 4
+Passed test: arr2 contains 3
+Passed test: arr2 contains 5
+Passed test: countMatches(arr1, 1)
+Passed test: countMatches(arr1, 3)
+Passed test: countMatches(arr1, 2)
+Passed test: countMatches(arr2, 1)
+Passed test: countMatches(arr2, 7)
+Passed test: countMatches(arr2, 2)
+Passed 26 / 26 tests
+
+

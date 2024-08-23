@@ -1,0 +1,99 @@
+================================================================================
+Compiling Submission
+================================================================================
+Compiler output:
+
+Note: ./A4Stack.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+Compile successful.
+================================================================================
+Automated Testing Output:
+================================================================================
+Stack Operations Tests:
+Passed test: stack initially empty
+Passed test: stack no longer empty
+Passed test: top works after initial push
+Passed test: stack not empty
+Failed test: top works after second push at line 80
+Passed test: stack not empty
+Passed test: correct value returned from pop
+Passed test: top works after pop
+Passed test: stack is empty again
+Passed test: correct value returned from pop
+Passed test: peek from an empty stack is null
+Passed test: popping from an empty stack is still empty
+Passed test: pop from an empty stack returns null
+Passed test: peek from an empty stack is null
+Passed test: stack is no longer empty
+Passed test: correct value returned from top
+Passed test: stack is no longer empty
+Passed test: checking popped element values
+Passed test: checking popped element values
+Passed test: checking popped element values
+Passed test: checking popped element values
+Passed test: checking popped element values
+Passed test: stack is now empty
+Passed test: popping from empty stack
+Passed test: top of empty stack
+Passed test: stack is empty
+Passed test: stack is no longer empty
+Passed test: stack is no longer empty
+
+Stack Generics Tests:
+Passed test: Generic constructors test
+Passed test: Integer Stack
+Passed test: String Stack
+Passed test: Double Stack
+Passed test: Integer Stack
+Passed test: String Stack
+Passed test: Double Stack
+
+Passed test: undoing with nothing to undo
+Passed test: undo is initially empty
+Passed test: redo is initially empty
+Passed test: undoing a single action
+Passed test: undoing a single action so that undo is empty
+Passed test: undoing an action puts an element into redo stack
+Passed test: undoing an action puts correct element to top of redo stack
+Passed test: nothing left to undo
+Passed test: undo should be empty
+Passed test: redo should still not be empty
+Passed test: same element should be at the top of redo stack
+Passed test: undoing a single action
+Passed test: undoing should still have two words
+Passed test: redo should now have two words
+Failed test: undo should have a new top at line 410
+Failed test: redo should have a new top at line 411
+Passed test: undoing a single action
+Passed test: undoing should be back to three words
+Passed test: redo should now have one words
+Passed test: redo should have a new top
+Passed test: undoing a single action
+Passed test: undoing should be up to four words
+Passed test: redo is now empty
+Failed test: undo should have a new top at line 447
+Passed test: undoing a single action
+Passed test: redo is now empty
+Failed test: undo should have the same top at line 463
+Passed test: undoing a single action
+Passed test: undoing should still have three words
+Passed test: redo should now have one word
+Failed test: undo should have a new top at line 482
+Passed test: redo should have a new top
+Passed test: undoing multiple actions
+Passed test: undoing should still have one word
+Passed test: redo should now have three word
+Passed test: undo should have a new top
+Failed test: redo should have a new top at line 504
+Passed test: undoing the last action
+Passed test: undoing should be empty
+Passed test: redo should now have four words
+Failed test: redo should have a new top at line 522
+Passed test: undoing the last action
+Passed test: undoing should be empty
+Passed test: redo should still have four words
+Failed test: redo's top should not be changed at line 540
+Passed 71 / 80 tests
+
+
